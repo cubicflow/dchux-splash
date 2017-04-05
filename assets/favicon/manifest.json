@@ -1,0 +1,17 @@
+{
+	"name": "Harlowe's French Dip",
+	"icons": [
+		{
+			"src": "\/assets\/favicon\/android-chrome-192x192.png?v=gAEjj5p2Gv",
+			"sizes": "192x192",
+			"type": "image\/png"
+		},
+		{
+			"src": "\/assets\/favicon\/android-chrome-512x512.png?v=gAEjj5p2Gv",
+			"sizes": "512x512",
+			"type": "image\/png"
+		}
+	],
+	"theme_color": "#e8e6e6",
+	"display": "standalone"
+}
