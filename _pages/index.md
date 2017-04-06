@@ -18,11 +18,11 @@ Ambulatory&nbsp;Surgery&nbsp;Center</span>
 
     <br><br>
 
-    <span class="homepage-cover__content__caption editable">Established in December 2016, DCHUX is the first neuromusculoskeletal focused ambulatory surgery center serving Washington, D.C. Metropolitan.  DCHUX aims to provide Hand Surgery, Neurosurgery, Peripheral Nerve Surgery, Orthopedic Surgery, Spine&nbsp;Surgery and&nbsp;Pain&nbsp;Management.</span>
+    <span class="homepage-cover__content__caption editable">Established in December 2016, DCHUX is the first neuromusculoskeletal focused ambulatory surgery center serving Washington, D.C. Metropolitan.  DCHUX aims to provide services including Hand&nbsp;Surgery, Neurosurgery, Peripheral&nbsp;Nerve&nbsp;Surgery, Orthopedic&nbsp;Surgery, Spine&nbsp;Surgery and&nbsp;Pain&nbsp;Management.</span>
 
     <br><br>
 
-    <span class="homepage-cover__content__comingsoon editable">Coming soon to Washington,&nbsp;D.C.</span>
+    <span class="homepage-cover__content__comingsoon editable">Opening&nbsp;August&nbsp;2017</span>
 
   </div>
 
