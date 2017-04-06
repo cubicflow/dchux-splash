@@ -43,7 +43,7 @@
       // }
 
       @include breakpoint(medium) {
-        margin-top: -105px;
+        margin-top: -130px;
       }
 
       img {
@@ -87,6 +87,10 @@
         font-family: $font-family--bold;
         line-height: 1em;
         @include font-size--xsmall();
+
+        @include breakpoint(medium){
+          @include font-size--small();
+        }
       }
 
       &__caption {
@@ -95,6 +99,10 @@
         @include font-size--xsmall();
         max-width: 700px;
         display: inline-block;
+
+        @include breakpoint(medium){
+          @include font-size--small();
+        }
       }
 
       &__icons {
