@@ -114,10 +114,10 @@
 
     &__container {
       @include container();
-
+      
       a {
         opacity: 0.7;
-        display: block;
+        display: inline-block;
         color: $cream;
         line-height: 2.5em;
 
