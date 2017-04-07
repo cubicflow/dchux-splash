@@ -71,8 +71,8 @@
         margin-bottom: 60px;
 
         @include breakpoint(medium){
-          max-width: 182px;
-          height: 40px;
+          max-width: 228px;
+          height: 50px;
           margin-bottom: 60px;
         }
       }
@@ -84,12 +84,12 @@
       }
 
       &__comingsoon {
-        font-family: $font-family--bold;
+        font-family: $font-family--regular;
         line-height: 1em;
-        @include font-size--xsmall();
+        @include font-size--small();
 
         @include breakpoint(medium){
-          @include font-size--small();
+          @include font-size--medium();
         }
       }
 
